@@ -1,5 +1,5 @@
 #################
-#STA 5207 Final Project
+#Multi-Linear Regression and Predictive Modeling on Ames Housing Dataset
 # Xi "Shelly" Luo
 # 12/1/2022
 #################
